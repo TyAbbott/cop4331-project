@@ -11,19 +11,21 @@ The product is in the category of games and as such serves the purpose of entert
 
 ### Main Advantages
 That leads to the advantages of "A Few in a Row" which are: 
-* Ability to play locally on your computer with friends or coworkers.  
+* Ability to play locally on one or two computers with friends or coworkers.  
 * Having a computer player to play against for when another player isn’t available to play against.  
 * A unique twist on the traditional game.  Having an expanded 20x20 grid in which players try to get 5 elements in a line to win.
 
-### Difference to the Competition
+### Main Differences
 Classic Tic-tac-toe has been played on paper, and there's even online versions of it. There are some disadvantages to the classic method of playing that our game hopes to remedy.  Our game will: 
-* Not require paper or a reliable internet connection as the game is played locally on your machine.  
+* Not require paper or a reliable internet connection as the game is played locally.  
 * Solve the problem of not having another person to play with.  
 * Solve the problem of simplistic and boring gameplay.
 ### Product Offering
 To put it all together, "A Few in a Row" is going to be a better version of the conventional Tic-tac-toe, offering: 
 * A 20x20 grid with the aim to get 5 in a row
-* With multiplayer (PvP) capabilities
+* With multiplayer (PvP) capabilities either on:
+  * The same computer as a friend or
+  * Seperate computers on the same network
 * A clever artificial intelligence (AI) to challenge players to try and beat the computer when there is no one around to play with.  
 
 All of that comes packaged in a beautifully designed user interface that is both practical and esthetically pleasing.
