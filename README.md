@@ -28,5 +28,5 @@ To put it all together, "A Few in a Row" is going to be a better version of the 
   * Seperate computers on the same network
 * A clever artificial intelligence (AI) to challenge players to try and beat the computer when there is no one around to play with.  
 
-All of that comes packaged in a beautifully designed user interface that is both practical and esthetically pleasing.
+All of that comes packaged in a beautifully designed user interface that is both practical and aesthetically pleasing.
 
