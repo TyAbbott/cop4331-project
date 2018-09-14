@@ -69,7 +69,7 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 *	Game is run as an executable
 
 ## Sprint Burndown Chart
-[Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint1.pdf)
+[Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint1/Sprint1.pdf)
 
 ## UML Diagrams
 Link to UML Diagram
