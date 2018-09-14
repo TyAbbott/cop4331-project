@@ -1,5 +1,5 @@
 # Sprint 1 Review
-
+Sprint 1 Review for: Ty Abbott, Derek Goodwin, Matthew Klein, and Aleksandar Stoyanov
 ## Vision Statement
 Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bland and replaced by more engaging games.  The base concept is great and we want to build off of it to build the 21st century version, A Few in a Row.  Our game will be played on the player’s computer with options to play against another human locally, online, or against the computer.  The player’s will be able to select the size of the board and the target number of pieces they want to get in a row. There will also be options to save and load games, as well as have a replay function that stores player moves.
 
@@ -32,3 +32,47 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 | As a user, I want the game board to draw without indentations and   mis-texturing so the game looks nice.                                 | 4        | 3      | The game design shouldn’t take away from the gameplay and be   distracting.                                |
 | As a user, I want the pieces to be placed where the mouse is clicked,   so accurate moves are made.                                       | 4        | 5      | It’s annoying and would destroy the integrity of the game if pieces   don’t go where a player wants.       |
 | As a user, I want the game to be an executable so I can run it easily                                                                     | 3        | 3      | The game is meant to be played by people without technical   experience.                                   |
+
+## Product Backlog (All Backlog Items for Project)
+*	Select the grid size
+*	Select the winning number of pieces
+*	Game correctly recognizes when a game is completed
+*	Display when game is over
+*	Display current player’s name
+*	Display win records
+*	Game is opened up to take up most of the screen on standard resolutions
+*	Add game load and save feature
+*	Replay feature to view previous games
+*	Local multiplayer
+*	Local computer opponent
+*	Different computer difficulties
+*	LAN multiplayer
+*	Multiple language options
+*	Start screen/menu
+*	Board clears on game end
+*	Rematch option when game ends
+*	Changeable board/piece design
+*	Piece placing animation
+*	Add game sounds
+*	Highlight winning pieces
+*	Make game board look clean
+*	Calibrated spot selection
+*	Game is run as an executable
+
+## Sprint Backlog (Items we completed this sprint)
+*	Select the grid size
+*	Select the winning number of pieces
+*	Game correctly recognizes when a win condition is met
+*	Game is opened up to take up most of the screen on standard resolutions
+*	Calibrated spot selection
+*	Local multiplayer
+*	Game is run as an executable
+
+## Sprint Burndown Chart
+[Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint1.pdf)
+
+## UML Diagrams
+Link to UML Diagram
+
+## Link to Code
+[Game Logic](https://github.com/TyAbbott/cop4331-project/blob/master/Game_Logic.java)
