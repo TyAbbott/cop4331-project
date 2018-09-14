@@ -34,6 +34,7 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 | As a user, I want the game to be an executable so I can run it easily                                                                     | 3        | 3      | The game is meant to be played by people without technical   experience.                                   |
 
 ## Product Backlog (All Backlog Items for Project)
+(Crossed out signifies completed Items)
 *	~~Select the grid size~~
 *	~~Select the winning number of pieces~~
 *	~~Game correctly recognizes when a game is completed~~
