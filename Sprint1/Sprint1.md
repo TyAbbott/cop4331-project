@@ -33,41 +33,9 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 | As a user, I want the pieces to be placed where the mouse is clicked,   so accurate moves are made.                                       | 4        | 5      | It’s annoying and would destroy the integrity of the game if pieces   don’t go where a player wants.       |
 | As a user, I want the game to be an executable so I can run it easily                                                                     | 3        | 3      | The game is meant to be played by people without technical   experience.                                   |
 
-## Product Backlog (All Backlog Items for Project)
-(Crossed out signifies completed Items)
-*	~~Select the grid size~~
-*	~~Select the winning number of pieces~~
-*	~~Game correctly recognizes when a game is completed~~
-*	Display when game is over
-*	Display current player’s name
-*	Display win records
-*	~~Game is opened up to take up most of the screen on standard resolutions~~
-*	Add game load and save feature
-*	Replay feature to view previous games
-*	~~Local multiplayer~~
-*	Local computer opponent
-*	Different computer difficulties
-*	LAN multiplayer
-*	Multiple language options
-*	Start screen/menu
-*	Board clears on game end
-*	Rematch option when game ends
-*	Changeable board/piece design
-*	Piece placing animation
-*	Add game sounds
-*	Highlight winning pieces
-*	Make game board look clean
-*	~~Calibrated spot selection~~
-*	~~Game is run as an executable~~
-
-## Sprint Backlog (Items we completed this sprint)
-*	Select the grid size
-*	Select the winning number of pieces
-*	Game correctly recognizes when a win condition is met
-*	Game is opened up to take up most of the screen on standard resolutions
-*	Calibrated spot selection
-*	Local multiplayer
-*	Game is run as an executable
+## Product Backlog
+[Product Backlog](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint1/ProjectBacklog.pdf)
+[Google Spreadsheets Version](https://docs.google.com/spreadsheets/d/1oetAO0jabmfB-8eYq7Jjqy2rfwcwWEucXJN0-8XoXZc/edit?usp=sharing)
 
 ## Sprint Burndown Chart
 [Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint1/Sprint1.pdf)
