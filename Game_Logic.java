@@ -48,6 +48,7 @@ public class Game_Logic {
 	
 	private int goal;
 	private int[][] map;
+	private int size;
 	
 	public int getGoal(){ return goal; }
 	public int setGoal(int newGoal){ return goal = newGoal; }
@@ -65,6 +66,7 @@ public class Game_Logic {
 	public Game_Logic(int size, int goal){
 		map = new int[size][size];
 		this.goal = goal;
+		this.size = size;
 	}
 	public boolean updateBoard(int row, int col, int player){
 		if(map[row][col] != 0){
@@ -117,7 +119,13 @@ public class Game_Logic {
 		if(max >= goal) return true;
 		return false;
 	}
-	
-	
-	
+
+	// clearBoard populates the board with all 0's
+	public void clearBoard() {
+		for(int i = 0; i < size; i++){
+			for(int j = 0; j < size; j++){
+				map[i][j] = 0;
+			}
+		}
+	}
 }
