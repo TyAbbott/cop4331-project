@@ -38,7 +38,7 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 [Google Spreadsheets Version](https://docs.google.com/spreadsheets/d/1oetAO0jabmfB-8eYq7Jjqy2rfwcwWEucXJN0-8XoXZc/edit?usp=sharing)
 
 ## Sprint Burndown Chart
-[Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint1/Sprint1.pdf)
+[Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/Sprint2.pdf)
 
 ## UML Diagrams
 [UML Diagram](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint1/AFewInARowUMLDiagram.pdf)
