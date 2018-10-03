@@ -33,7 +33,7 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 |~As a user, I want the pieces to be placed where the mouse is clicked,   so accurate moves are made.~                                      | 4        | 5      | It’s annoying and would destroy the integrity of the game if pieces don’t go where a player wants. |DONE   |
 |~As a user, I want the game to be an executable so I can run it easily~                                                                    | 3        | 3      | The game is meant to be played by people without technical   experience.                           |DONE   |
 ## Product Backlog
-[Product Backlog](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint1/ProjectBacklog.pdf)
+[Product Backlog](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/ProjectBacklog.pdf)
 
 [Google Spreadsheets Version](https://docs.google.com/spreadsheets/d/1oetAO0jabmfB-8eYq7Jjqy2rfwcwWEucXJN0-8XoXZc/edit?usp=sharing)
 
