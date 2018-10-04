@@ -45,5 +45,7 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 
 ## Link to Code
 [Game Logic](https://github.com/TyAbbott/cop4331-project/blob/master/Game_Logic.java)
+
 [Load/Save Game](https://github.com/TyAbbott/cop4331-project/blob/master/Load_Save_Game.java)
+
 [Game Frontend](https://github.com/TyAbbott/cop4331-project/blob/master/AFewInARow.java)
