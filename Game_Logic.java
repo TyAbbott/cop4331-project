@@ -1,3 +1,4 @@
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -54,6 +55,12 @@ public class Game_Logic {
 	public int setGoal(int newGoal){ return goal = newGoal; }
 	
 	public int[][] getMap(){ return map; }
+        
+        public void loadGame(int[][] newMap, int newGoal) 
+        { 
+            map = newMap; 
+            goal = newGoal;
+        }
 	
 	// returns 0 if no piece was placed,
 	// 1,2, ... if player 1,2, ... placed a piece here,
@@ -64,7 +71,8 @@ public class Game_Logic {
 	
 	private Game_Logic(){}
 	public Game_Logic(int size, int goal){
-		map = new int[size][size];
+		map = new int[15][15];
+                
 		this.goal = goal;
 		this.size = size;
 	}
@@ -89,7 +97,7 @@ public class Game_Logic {
 					int checkC = col + dc*k, checkR = row + dr*k;
 //					System.out.println(checkR+" "+checkC+" is checkR and checkC respectively");
 					// if it's NOT In bounds, it must be out of bounds
-					if(!(0 <= checkC && checkC < map[0].length && 0 <= checkR && checkR < map.length)){
+					if(!(0 <= checkC && checkC < size && 0 <= checkR && checkR < size)){
 //						System.out.println("nope");
 						break;
 					}
