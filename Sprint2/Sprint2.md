@@ -41,7 +41,7 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 [Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/Sprint2burndown.pdf)
 
 ## UML Diagrams
-[UML Diagram](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint1/AFewInARowUMLDiagram.pdf)
+[UML Diagram](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/AFewInARowUMLDiagram.pdf)
 
 ## Link to Code
 [Game Logic](https://github.com/TyAbbott/cop4331-project/blob/master/Game_Logic.java)
