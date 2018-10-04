@@ -32,13 +32,16 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 |~As a user, I want the game board to draw without indentations and   mis-texturing so the game looks nice.~                                | 4        | 3      | The game design shouldn’t take away from the gameplay and be   distracting.                        |DONE   |
 |~As a user, I want the pieces to be placed where the mouse is clicked,   so accurate moves are made.~                                      | 4        | 5      | It’s annoying and would destroy the integrity of the game if pieces don’t go where a player wants. |DONE   |
 |~As a user, I want the game to be an executable so I can run it easily~                                                                    | 3        | 3      | The game is meant to be played by people without technical   experience.                           |DONE   |
-## Product Backlog
+## Product Backlog & Sprint Backlog
 [Product Backlog](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/ProjectBacklog.pdf)
 
 [Google Spreadsheets Version](https://docs.google.com/spreadsheets/d/1oetAO0jabmfB-8eYq7Jjqy2rfwcwWEucXJN0-8XoXZc/edit?usp=sharing)
 
-## Sprint Burndown Chart
+## Burndown Chart
 [Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/Sprint2burndown.pdf)
+
+## Requirements
+Requirements go here
 
 ## UML Diagrams
 [Class Diagram](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/AFewInARowUMLDiagram.pdf)
@@ -49,3 +52,10 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 [Load/Save Game](https://github.com/TyAbbott/cop4331-project/blob/master/Load_Save_Game.java)
 
 [Game Frontend](https://github.com/TyAbbott/cop4331-project/blob/master/AFewInARow.java)
+
+## Tests
+Create a document, explaining how to conduct tests
+
+## Demonstration
+* [Download JAR](https://github.com/TyAbbott/cop4331-project/blob/master/aFewInARow.jar) 
+* Run JAR File, and play the game
