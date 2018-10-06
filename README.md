@@ -18,6 +18,6 @@ To compile the game yourself (Java 1.8 or later required):
 
 [**Project Proposal Information**](https://github.com/TyAbbott/cop4331-project/tree/master/Proposal)
 
-[**Sprint 1 Information**](https://github.com/TyAbbott/cop4331-project/tree/master/Sprint1)
+[**Sprint 1 Information**](https://github.com/TyAbbott/cop4331-project/tree/master/Sprint1/sprint1.md)
 
-[**Sprint 2 Information**](https://github.com/TyAbbott/cop4331-project/tree/master/Sprint2)
+[**Sprint 2 Information**](https://github.com/TyAbbott/cop4331-project/tree/master/Sprint2/sprint2.md)
