@@ -56,7 +56,7 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 [Game Frontend](https://github.com/TyAbbott/cop4331-project/blob/master/AFewInARow.java)
 
 ## Tests
-Create a document, explaining how to conduct tests
+[Tests](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/ProjectTesting.pdf)
 
 ## Demonstration
 * [Download JAR](https://github.com/TyAbbott/cop4331-project/blob/master/aFewInARow.jar) 
