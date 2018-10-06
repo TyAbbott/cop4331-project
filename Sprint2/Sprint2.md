@@ -41,10 +41,12 @@ Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bl
 [Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/Sprint2burndown.pdf)
 
 ## Requirements
-Requirements go here
+[Requirements](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/Requirements.pdf)
 
 ## UML Diagrams
 [Class Diagram](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/AFewInARowUMLDiagram.pdf)
+
+[Architecture Diagram](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/ArchitectureUMLdiagram.png)
 
 ## Link to Code
 [Game Logic](https://github.com/TyAbbott/cop4331-project/blob/master/Game_Logic.java)
