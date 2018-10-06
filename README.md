@@ -5,7 +5,7 @@ A Few in a Row is a fun game based on Tic-Tac-Toe.  The main twist is, you get t
 ## To Play
 
 To download and run the executable (Java 1.8 or later required/Windows only)
-1. Simply download the executable: A_Few_In_A_Row.exe and run it!
+1. Simply download the executable: A_Few_In_A_Row.jar and run it!
 
 To compile the game yourself (Java 1.8 or later required):
 1. Download our java files
