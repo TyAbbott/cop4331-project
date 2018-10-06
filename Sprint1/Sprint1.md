@@ -1,5 +1,7 @@
 # Sprint 1 Review
 Sprint 1 Review for: Ty Abbott, Derek Goodwin, Matthew Klein, and Aleksandar Stoyanov
+
+Sprint 2 review located here: https://github.com/TyAbbott/cop4331-project/blob/master/Sprint2/Sprint2.md
 ## Vision Statement
 Man has been playing Tic-Tac-Toe for thousands of years.  The game has become bland and replaced by more engaging games.  The base concept is great and we want to build off of it to build the 21st century version, A Few in a Row.  Our game will be played on the player’s computer with options to play against another human locally, online, or against the computer.  The player’s will be able to select the size of the board and the target number of pieces they want to get in a row. There will also be options to save and load games, as well as have a replay function that stores player moves.
 
