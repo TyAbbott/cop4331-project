@@ -40,7 +40,7 @@ The idea of a Tic Tac Toe variant is not a unique idea.  The idea of getting n-i
 [Google Spreadsheets Version](https://docs.google.com/spreadsheets/d/1oetAO0jabmfB-8eYq7Jjqy2rfwcwWEucXJN0-8XoXZc/edit?usp=sharing)
 
 ## Burndown Chart
-[Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint3/Sprint3burndown.pdf)
+[Burndown Chart](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint3/Sprint3Burndown.pdf)
 
 ## Requirements
 [Requirements](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint3/Requirements.pdf)
