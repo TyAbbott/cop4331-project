@@ -71,7 +71,7 @@ public class Game_Logic {
 	
 	private Game_Logic(){}
 	public Game_Logic(int size, int goal){
-		map = new int[15][15];
+		map = new int[30][30];
                 
 		this.goal = goal;
 		this.size = size;
