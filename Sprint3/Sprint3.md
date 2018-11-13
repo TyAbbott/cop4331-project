@@ -57,6 +57,8 @@ The idea of a Tic Tac Toe variant is not a unique idea.  The idea of getting n-i
 
 [Game Frontend](https://github.com/TyAbbott/cop4331-project/blob/master/AFewInARow.java)
 
+[Computer](https://github.com/TyAbbott/cop4331-project/blob/master/Computer.java)
+
 ## Tests
 [Tests](https://github.com/TyAbbott/cop4331-project/blob/master/Sprint3/ProjectTesting.pdf)
 
