@@ -25,7 +25,7 @@ To compile the game yourself (Java 1.8 or later required):
 [**Sprint 3 Information**](https://github.com/TyAbbott/cop4331-project/tree/master/Sprint3/Sprint3.md)
 
 ## Contributors
-Matthew Goodwin
+Matthew Klein
 
 https://github.com/Deriino
 
