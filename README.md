@@ -23,3 +23,9 @@ To compile the game yourself (Java 1.8 or later required):
 [**Sprint 2 Information**](https://github.com/TyAbbott/cop4331-project/tree/master/Sprint2/Sprint2.md)
 
 [**Sprint 3 Information**](https://github.com/TyAbbott/cop4331-project/tree/master/Sprint3/Sprint3.md)
+
+## Contributors
+Matthew Goodwin
+https://github.com/Deriino
+https://github.com/AlekStoyanov
+https://github.com/TyAbbott/
