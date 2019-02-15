@@ -26,6 +26,10 @@ To compile the game yourself (Java 1.8 or later required):
 
 ## Contributors
 Matthew Goodwin
+
 https://github.com/Deriino
+
 https://github.com/AlekStoyanov
+
 https://github.com/TyAbbott/
+
